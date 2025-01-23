@@ -1,16 +1,12 @@
-# flutter_application_1
+#  Flutter Project: dti_sau_project
 
-A new Flutter project.
+### UI Project ห้นาจอ Welcome, Login และ Signup ยังไม่มีโค้ดการทำงานใดๆ
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/60f4be9b-dda0-48a9-af0d-25a6df85e9f1">
+<br><br\>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/8cfb363e-ec60-4a31-8f03-36bcb443a974">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/user-attachments/assets/af166156-f860-4b11-8a54-16e2c5abbac5">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
